@@ -16,6 +16,12 @@
 
 ![alt text](image-2.png)
 
+## Tarea final y limpieza de recursos
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
 ## Captura final
 
 ![alt text](image-3.png)
