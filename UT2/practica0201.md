@@ -43,4 +43,4 @@
 
 ### Accedemos desde el móvil para ver si funcionó, desde otra red claro.
 
-![alt text](<WhatsApp Image 2026-09-25 at 12.36.06.jpeg>)
+![alt text](image-7.jpeg)
