@@ -49,15 +49,4 @@
 #### S3 Glacier Flexible Retrieval establece un periodo mínimo de almacenamiento de 90 días.
 
 ### 3. Cálculo de ahorro: una empresa almacena 20 TB de copias de seguridad estáticas que casi nunca se leen. ¿Cuánto pagaría al mes en S3 Standard frente a mantenerlas en S3 Glacier Flexible Retrieval?
-#### 20 TB = 20.000 GB
-S3 Standard:
-
-20.000 × 0.023 = 460 $/mes
-
-S3 Glacier Flexible Retrieval:
-
-20.000 × 0.0036 = 72 $/mes
-
-Ahorro mensual:
-
-460 - 72 = 388 $/mes
+#### 20 TB = 20.000 GB S3     Standard: 20.000 × 0.023 = 460 $/mes       S3 Glacier Flexible Retrieval: 20.000 × 0.0036 = 72 $/mes      Ahorro mensual: 460 - 72 = 388 $/mes
